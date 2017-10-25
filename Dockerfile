@@ -7,7 +7,7 @@ MAINTAINER Hector Castro hectcastro@gmail.com
 
 # Environmental variables
 ENV DEBIAN_FRONTEND noninteractive
-ENV RIAK_VERSION 2.1.3-1
+ENV RIAK_VERSION 2.2.3-1
 
 RUN \
 
